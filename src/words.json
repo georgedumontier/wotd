@@ -1,0 +1,585 @@
+[
+  { "word": "test1", "def": [] },
+  { "word": "test2", "def": [] },
+  { "word": "test3", "def": [] },
+  { "word": "test4", "def": [] },
+  { "word": "test5", "def": [] },
+  { "word": "test6", "def": [] },
+  { "word": "test7", "def": [] },
+  { "word": "test8", "def": [] },
+  { "word": "test9", "def": [] },
+  { "word": "test10", "def": [] },
+  { "word": "test11", "def": [] },
+  { "word": "test12", "def": [] },
+  { "word": "test13", "def": [] },
+  { "word": "test14", "def": [] },
+  { "word": "test15", "def": [] },
+  { "word": "test16", "def": [] },
+  { "word": "test17", "def": [] },
+  { "word": "test18", "def": [] },
+  { "word": "test19", "def": [] },
+  { "word": "test20", "def": [] },
+  { "word": "test21", "def": [] },
+  { "word": "test22", "def": [] },
+  { "word": "test23", "def": [] },
+  { "word": "test24", "def": [] },
+  { "word": "test25", "def": [] },
+  { "word": "test26", "def": [] },
+  { "word": "test27", "def": [] },
+  { "word": "test28", "def": [] },
+  { "word": "test29", "def": [] },
+  { "word": "test30", "def": [] },
+  { "word": "test31", "def": [] },
+  { "word": "test32", "def": [] },
+  { "word": "test33", "def": [] },
+  { "word": "test34", "def": [] },
+  { "word": "test35", "def": [] },
+  { "word": "test36", "def": [] },
+  { "word": "test37", "def": [] },
+  { "word": "test38", "def": [] },
+  { "word": "test39", "def": [] },
+  { "word": "test40", "def": [] },
+  { "word": "test41", "def": [] },
+  { "word": "test42", "def": [] },
+  { "word": "test43", "def": [] },
+  { "word": "test44", "def": [] },
+  { "word": "test45", "def": [] },
+  { "word": "test46", "def": [] },
+  { "word": "test47", "def": [] },
+  { "word": "test48", "def": [] },
+  { "word": "test49", "def": [] },
+  { "word": "test50", "def": [] },
+  { "word": "test51", "def": [] },
+  { "word": "test52", "def": [] },
+  { "word": "test53", "def": [] },
+  { "word": "test54", "def": [] },
+  { "word": "test55", "def": [] },
+  { "word": "test56", "def": [] },
+  { "word": "test57", "def": [] },
+  { "word": "test58", "def": [] },
+  { "word": "test59", "def": [] },
+  { "word": "test60", "def": [] },
+  { "word": "test61", "def": [] },
+  { "word": "test62", "def": [] },
+  {
+    "word": "Hyperthymesia n",
+    "def": [
+      "(neuroscience) A rare condition in which an individual possesses a superior autobiographical memory and is able to recall the vast majority of personal events and experiences in life."
+    ]
+  },
+  {
+    "word": "Ordure n",
+    "def": [
+      "Dung, excrement.",
+      "(by extension) Dirt, filth.",
+      "(by extension) Something regarded as contaminating or perverting the morals; obscene material."
+    ]
+  },
+  {
+    "word": "Bosk n",
+    "def": [
+      "(obsolete except dialectal) A bush.",
+      "(archaic) A thicket; a small wood."
+    ]
+  },
+  {
+    "word": "Fatberg n",
+    "def": [
+      "A large accumulation of fat and discarded toiletries which clogs sewers."
+    ]
+  },
+  {
+    "word": "Meteorwrong n",
+    "def": [
+      "(humorous) A rock that is believed to be a meteorite, but is in fact terrestrial in origin; a pseudometeorite."
+    ]
+  },
+  { "word": "Quakebuttock n", "def": ["(obsolete, rare) A coward."] },
+  {
+    "word": "Calvous adj",
+    "def": [
+      "(formal, medicine, rare) Lacking most or all of one's hair; bald, hairless.",
+      "(botany, rare) Lacking bristles or pappuses."
+    ]
+  },
+  {
+    "word": "Hyperparasite n",
+    "def": [
+      "(biology) Any parasite whose host is a parasite.",
+      "(entomology, specifically) An insect that parasitizes another parasitic insect"
+    ]
+  },
+  {
+    "word": "Ambivert n",
+    "def": [
+      "(psychology) A person who is neither clearly extroverted nor introverted, but has characteristics of each."
+    ]
+  },
+  {
+    "word": "Steatopygous adj",
+    "def": [
+      "(physiology) Pertaining to steatopygia; having fat or prominent buttocks."
+    ]
+  },
+  {
+    "word": "Bloviation n",
+    "def": [
+      "(US, possibly originally Ohio, informal) A lengthy discourse in a boastful or pompous manner."
+    ]
+  },
+  {
+    "word": "Ennead n",
+    "def": [
+      "(obsolete) The number nine.",
+      "(rare) Any grouping or system containing nine objects."
+    ]
+  },
+  { "word": "Polemology n", "def": ["The study of human conflict and war."] },
+  {
+    "word": "Desiccate v",
+    "def": [
+      "(transitive) To remove moisture from; to dry.",
+      "(transitive) To preserve by drying.",
+      "(intransitive, rare) To become dry; to dry up."
+    ]
+  },
+  {
+    "word": "Hector v",
+    "def": [
+      "(transitive) To dominate or intimidate in a blustering way; to bully, to domineer.",
+      "(intransitive) To behave like a hector or bully; to bluster, to swagger; to bully."
+    ]
+  },
+  {
+    "word": "Wieldy adj",
+    "def": [
+      "(obsolete except Britain, dialectal) Able to wield one's body well; active, dexterous.",
+      "Capable of being easily wielded or managed; handy."
+    ]
+  },
+  {
+    "word": "Gumption n",
+    "def": [
+      "(Britain) Common sense, initiative, resourcefulness.",
+      "(US) Boldness of enterprise; aggressiveness or initiative.",
+      "(US) Energy of body and mind, enthusiasm."
+    ]
+  },
+  {
+    "word": "Blooper n",
+    "def": [
+      "(informal) A blunder, an error.",
+      "(baseball, slang) A fly ball that is weakly hit just over the infielders.",
+      "(film, informal) A filmed or videotaped outtake that has recorded an amusing accident and/or mistake.",
+      "(nautical) A gaff-rigged fore-and-aft sail set from and aft of the aftmost mast of a square-rigged ship; a spanker.",
+      "(US, dated) A radio which interferes with other radios, causing them to bloop (squeal loudly)."
+    ]
+  },
+  {
+    "word": "Acquit v",
+    "def": [
+      "(transitive) To declare or find innocent or not guilty.",
+      "(transitive) To discharge (for example, a claim or debt); to clear off, to pay off; to fulfil.",
+      "(transitive) Followed by of (and formerly by from): to discharge, release, or set free from a burden, duty, liability, or obligation, or from an accusation or charge.",
+      "(reflexive) To bear or conduct oneself; to perform one's part.",
+      "(reflexive) To clear oneself.",
+      "(transitive, archaic) past participle of acquit.",
+      "(transitive, obsolete) To release, to rescue, to set free.",
+      "(transitive, obsolete, rare) To pay for; to atone for."
+    ]
+  },
+  {
+    "word": "Skimble-skamble adj",
+    "def": ["Confused, chaotic, disorderly, senseless."]
+  },
+  {
+    "word": "Brumous adj",
+    "def": ["(literary) Foggy or misty; wintry."]
+  },
+  {
+    "word": "Caliginous adj",
+    "def": ["(archaic or literary) Dark, obscure; murky."]
+  },
+  {
+    "word": "Inexorable adj",
+    "def": [
+      "Impossible to prevent or stop; inevitable.",
+      "Unable to be persuaded; relentless; unrelenting.",
+      "Adamant; severe."
+    ]
+  },
+  {
+    "word": "Deglutition n",
+    "def": ["(physiology) The act or process of swallowing."]
+  },
+  {
+    "word": "Esurient adj",
+    "def": [
+      "(formal, now often humorous) Very greedy or hungry; ravenous; (figuratively) avid, eager."
+    ]
+  },
+  {
+    "word": "Vamp v",
+    "def": [
+      "(transitive) To patch, repair, or refurbish.",
+      "(transitive) Often as vamp up: to fabricate or put together (something) from existing material, or by adding new material to something existing.",
+      "(transitive) To cobble together, to extemporize, to improvise.",
+      "(transitive, intransitive, now dialectal) To travel by foot; to walk.",
+      "(transitive) To seduce or exploit someone."
+    ]
+  },
+  {
+    "word": "Navel-gazing v",
+    "def": [
+      "Contemplation of one's navel as an aid to meditation.",
+      "(derogatory) Excessive focus on oneself; self-indulgent introspection.",
+      "(sometimes derogatory) (Disproportionate) concentration on a single issue."
+    ]
+  },
+  {
+    "word": "Histrionic adj",
+    "def": [
+      "Of or relating to actors or acting.",
+      "(by extension) Excessively dramatic or emotional, especially with the intention to draw attention."
+    ]
+  },
+  {
+    "word": "Pendragon n",
+    "def": [
+      "a title assumed by the ancient British chiefs when called to lead other chiefs: chief war leader, dictator, or king."
+    ]
+  },
+  {
+    "word": "Muliebrity n",
+    "def": [
+      "(literary) The state or quality of being a woman; the features of a woman's nature; femininity, womanhood.",
+      "(literary) The state of attainment of womanhood following maidenhood.",
+      "(physiology) The state of puberty in a female."
+    ]
+  },
+  {
+    "word": "Audiation n",
+    "def": [
+      "(music) The comprehension and internal realization of music by an individual in the absence of any physical sound."
+    ]
+  },
+  {
+    "word": "Jibe v",
+    "def": [
+      "(transitive) To reproach with contemptuous words; to deride, to mock, to taunt.",
+      "(transitive) To say in a mocking or taunting manner.",
+      "(intransitive) To make a mocking remark or remarks; to jeer.",
+      "(intransitive, Canada, US, informal) To accord or agree."
+    ]
+  },
+  {
+    "word": "Slugabed n",
+    "def": [
+      "(archaic, now chiefly Canada, US) A lazy person who lies in bed after the usual time for getting up; a sluggard."
+    ]
+  },
+  {
+    "word": "Clarsach n",
+    "def": [
+      "(music) A small triangular wire-strung harp of Gaelic origin; a Celtic harp."
+    ]
+  },
+  {
+    "word": "Skulduggery n",
+    "def": [
+      "(countable) A devious device or trick.",
+      "(uncountable) Dishonest, underhanded, or unscrupulous activities or behaviour."
+    ]
+  },
+  {
+    "word": "Felicitous adj",
+    "def": [
+      "Appropriate, apt, fitting.",
+      "Auspicious, fortunate, lucky.",
+      "Causing happiness or pleasure."
+    ]
+  },
+  {
+    "word": "Verklempt adj",
+    "def": [
+      "(US, colloquial) Overcome with emotion, choked up.",
+      "(US, colloquial) Flustered, nervous, overwhelmed."
+    ]
+  },
+  {
+    "word": "Loggerhead n",
+    "def": [
+      "(obsolete) A stupid person; a blockhead, a dolt.",
+      "A metal tool consisting of a long rod with a bulbous end that is made hot in a fire, then plunged into some material (such as pitch or a liquid) to melt or heat it.",
+      "(nautical) A post on a whaling boat used to secure the harpoon rope.",
+      "(botany, Midlands, dialectal) Often in plural: a thistle-like flowering plant of the genus Centaurea, particularly the common knapweed (Centaurea nigra).",
+      "(zoology) Used as the name of various animals with large heads."
+    ]
+  },
+  { "word": "test101", "def": [] },
+  { "word": "test102", "def": [] },
+  { "word": "test103", "def": [] },
+  { "word": "test104", "def": [] },
+  { "word": "test105", "def": [] },
+  { "word": "test106", "def": [] },
+  { "word": "test107", "def": [] },
+  { "word": "test108", "def": [] },
+  { "word": "test109", "def": [] },
+  { "word": "test110", "def": [] },
+  { "word": "test111", "def": [] },
+  { "word": "test112", "def": [] },
+  { "word": "test113", "def": [] },
+  { "word": "test114", "def": [] },
+  { "word": "test115", "def": [] },
+  { "word": "test116", "def": [] },
+  { "word": "test117", "def": [] },
+  { "word": "test118", "def": [] },
+  { "word": "test119", "def": [] },
+  { "word": "test120", "def": [] },
+  { "word": "test121", "def": [] },
+  { "word": "test122", "def": [] },
+  { "word": "test123", "def": [] },
+  { "word": "test124", "def": [] },
+  { "word": "test125", "def": [] },
+  { "word": "test126", "def": [] },
+  { "word": "test127", "def": [] },
+  { "word": "test128", "def": [] },
+  { "word": "test129", "def": [] },
+  { "word": "test130", "def": [] },
+  { "word": "test131", "def": [] },
+  { "word": "test132", "def": [] },
+  { "word": "test133", "def": [] },
+  { "word": "test134", "def": [] },
+  { "word": "test135", "def": [] },
+  { "word": "test136", "def": [] },
+  { "word": "test137", "def": [] },
+  { "word": "test138", "def": [] },
+  { "word": "test139", "def": [] },
+  { "word": "test140", "def": [] },
+  { "word": "test141", "def": [] },
+  { "word": "test142", "def": [] },
+  { "word": "test143", "def": [] },
+  { "word": "test144", "def": [] },
+  { "word": "test145", "def": [] },
+  { "word": "test146", "def": [] },
+  { "word": "test147", "def": [] },
+  { "word": "test148", "def": [] },
+  { "word": "test149", "def": [] },
+  { "word": "test150", "def": [] },
+  { "word": "test151", "def": [] },
+  { "word": "test152", "def": [] },
+  { "word": "test153", "def": [] },
+  { "word": "test154", "def": [] },
+  { "word": "test155", "def": [] },
+  { "word": "test156", "def": [] },
+  { "word": "test157", "def": [] },
+  { "word": "test158", "def": [] },
+  { "word": "test159", "def": [] },
+  { "word": "test160", "def": [] },
+  { "word": "test161", "def": [] },
+  { "word": "test162", "def": [] },
+  { "word": "test163", "def": [] },
+  { "word": "test164", "def": [] },
+  { "word": "test165", "def": [] },
+  { "word": "test166", "def": [] },
+  { "word": "test167", "def": [] },
+  { "word": "test168", "def": [] },
+  { "word": "test169", "def": [] },
+  { "word": "test170", "def": [] },
+  { "word": "test171", "def": [] },
+  { "word": "test172", "def": [] },
+  { "word": "test173", "def": [] },
+  { "word": "test174", "def": [] },
+  { "word": "test175", "def": [] },
+  { "word": "test176", "def": [] },
+  { "word": "test177", "def": [] },
+  { "word": "test178", "def": [] },
+  { "word": "test179", "def": [] },
+  { "word": "test180", "def": [] },
+  { "word": "test181", "def": [] },
+  { "word": "test182", "def": [] },
+  { "word": "test183", "def": [] },
+  { "word": "test184", "def": [] },
+  { "word": "test185", "def": [] },
+  { "word": "test186", "def": [] },
+  { "word": "test187", "def": [] },
+  { "word": "test188", "def": [] },
+  { "word": "test189", "def": [] },
+  { "word": "test190", "def": [] },
+  { "word": "test191", "def": [] },
+  { "word": "test192", "def": [] },
+  { "word": "test193", "def": [] },
+  { "word": "test194", "def": [] },
+  { "word": "test195", "def": [] },
+  { "word": "test196", "def": [] },
+  { "word": "test197", "def": [] },
+  { "word": "test198", "def": [] },
+  { "word": "test199", "def": [] },
+  { "word": "test200", "def": [] },
+  { "word": "test201", "def": [] },
+  { "word": "test202", "def": [] },
+  { "word": "test203", "def": [] },
+  { "word": "test204", "def": [] },
+  { "word": "test205", "def": [] },
+  { "word": "test206", "def": [] },
+  { "word": "test207", "def": [] },
+  { "word": "test208", "def": [] },
+  { "word": "test209", "def": [] },
+  { "word": "test210", "def": [] },
+  { "word": "test211", "def": [] },
+  { "word": "test212", "def": [] },
+  { "word": "test213", "def": [] },
+  { "word": "test214", "def": [] },
+  { "word": "test215", "def": [] },
+  { "word": "test216", "def": [] },
+  { "word": "test217", "def": [] },
+  { "word": "test218", "def": [] },
+  { "word": "test219", "def": [] },
+  { "word": "test220", "def": [] },
+  { "word": "test221", "def": [] },
+  { "word": "test222", "def": [] },
+  { "word": "test223", "def": [] },
+  { "word": "test224", "def": [] },
+  { "word": "test225", "def": [] },
+  { "word": "test226", "def": [] },
+  { "word": "test227", "def": [] },
+  { "word": "test228", "def": [] },
+  { "word": "test229", "def": [] },
+  { "word": "test230", "def": [] },
+  { "word": "test231", "def": [] },
+  { "word": "test232", "def": [] },
+  { "word": "test233", "def": [] },
+  { "word": "test234", "def": [] },
+  { "word": "test235", "def": [] },
+  { "word": "test236", "def": [] },
+  { "word": "test237", "def": [] },
+  { "word": "test238", "def": [] },
+  { "word": "test239", "def": [] },
+  { "word": "test240", "def": [] },
+  { "word": "test241", "def": [] },
+  { "word": "test242", "def": [] },
+  { "word": "test243", "def": [] },
+  { "word": "test244", "def": [] },
+  { "word": "test245", "def": [] },
+  { "word": "test246", "def": [] },
+  { "word": "test247", "def": [] },
+  { "word": "test248", "def": [] },
+  { "word": "test249", "def": [] },
+  { "word": "test250", "def": [] },
+  { "word": "test251", "def": [] },
+  { "word": "test252", "def": [] },
+  { "word": "test253", "def": [] },
+  { "word": "test254", "def": [] },
+  { "word": "test255", "def": [] },
+  { "word": "test256", "def": [] },
+  { "word": "test257", "def": [] },
+  { "word": "test258", "def": [] },
+  { "word": "test259", "def": [] },
+  { "word": "test260", "def": [] },
+  { "word": "test261", "def": [] },
+  { "word": "test262", "def": [] },
+  { "word": "test263", "def": [] },
+  { "word": "test264", "def": [] },
+  { "word": "test265", "def": [] },
+  { "word": "test266", "def": [] },
+  { "word": "test267", "def": [] },
+  { "word": "test268", "def": [] },
+  { "word": "test269", "def": [] },
+  { "word": "test270", "def": [] },
+  { "word": "test271", "def": [] },
+  { "word": "test272", "def": [] },
+  { "word": "test273", "def": [] },
+  { "word": "test274", "def": [] },
+  { "word": "test275", "def": [] },
+  { "word": "test276", "def": [] },
+  { "word": "test277", "def": [] },
+  { "word": "test278", "def": [] },
+  { "word": "test279", "def": [] },
+  { "word": "test280", "def": [] },
+  { "word": "test281", "def": [] },
+  { "word": "test282", "def": [] },
+  { "word": "test283", "def": [] },
+  { "word": "test284", "def": [] },
+  { "word": "test285", "def": [] },
+  { "word": "test286", "def": [] },
+  { "word": "test287", "def": [] },
+  { "word": "test288", "def": [] },
+  { "word": "test289", "def": [] },
+  { "word": "test290", "def": [] },
+  { "word": "test291", "def": [] },
+  { "word": "test292", "def": [] },
+  { "word": "test293", "def": [] },
+  { "word": "test294", "def": [] },
+  { "word": "test295", "def": [] },
+  { "word": "test296", "def": [] },
+  { "word": "test297", "def": [] },
+  { "word": "test298", "def": [] },
+  { "word": "test299", "def": [] },
+  { "word": "test300", "def": [] },
+  { "word": "test301", "def": [] },
+  { "word": "test302", "def": [] },
+  { "word": "test303", "def": [] },
+  { "word": "test304", "def": [] },
+  { "word": "test305", "def": [] },
+  { "word": "test306", "def": [] },
+  { "word": "test307", "def": [] },
+  { "word": "test308", "def": [] },
+  { "word": "test309", "def": [] },
+  { "word": "test310", "def": [] },
+  { "word": "test311", "def": [] },
+  { "word": "test312", "def": [] },
+  { "word": "test313", "def": [] },
+  { "word": "test314", "def": [] },
+  { "word": "test315", "def": [] },
+  { "word": "test316", "def": [] },
+  { "word": "test317", "def": [] },
+  { "word": "test318", "def": [] },
+  { "word": "test319", "def": [] },
+  { "word": "test320", "def": [] },
+  { "word": "test321", "def": [] },
+  { "word": "test322", "def": [] },
+  { "word": "test323", "def": [] },
+  { "word": "test324", "def": [] },
+  { "word": "test325", "def": [] },
+  { "word": "test326", "def": [] },
+  { "word": "test327", "def": [] },
+  { "word": "test328", "def": [] },
+  { "word": "test329", "def": [] },
+  { "word": "test330", "def": [] },
+  { "word": "test331", "def": [] },
+  { "word": "test332", "def": [] },
+  { "word": "test333", "def": [] },
+  { "word": "test334", "def": [] },
+  { "word": "test335", "def": [] },
+  { "word": "test336", "def": [] },
+  { "word": "test337", "def": [] },
+  { "word": "test338", "def": [] },
+  { "word": "test339", "def": [] },
+  { "word": "test340", "def": [] },
+  { "word": "test341", "def": [] },
+  { "word": "test342", "def": [] },
+  { "word": "test343", "def": [] },
+  { "word": "test344", "def": [] },
+  { "word": "test345", "def": [] },
+  { "word": "test346", "def": [] },
+  { "word": "test347", "def": [] },
+  { "word": "test348", "def": [] },
+  { "word": "test349", "def": [] },
+  { "word": "test350", "def": [] },
+  { "word": "test351", "def": [] },
+  { "word": "test352", "def": [] },
+  { "word": "test353", "def": [] },
+  { "word": "test354", "def": [] },
+  { "word": "test355", "def": [] },
+  { "word": "test356", "def": [] },
+  { "word": "test357", "def": [] },
+  { "word": "test358", "def": [] },
+  { "word": "test359", "def": [] },
+  { "word": "test360", "def": [] },
+  { "word": "test361", "def": [] },
+  { "word": "test362", "def": [] },
+  { "word": "test363", "def": [] },
+  { "word": "test364", "def": [] },
+  { "word": "test365", "def": [] },
+  { "word": "test366", "def": [] }
+]
