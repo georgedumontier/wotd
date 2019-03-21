@@ -1,66 +1,412 @@
 [
-  { "word": "test1", "def": [] },
-  { "word": "test2", "def": [] },
-  { "word": "test3", "def": [] },
-  { "word": "test4", "def": [] },
-  { "word": "test5", "def": [] },
-  { "word": "test6", "def": [] },
-  { "word": "test7", "def": [] },
-  { "word": "test8", "def": [] },
-  { "word": "test9", "def": [] },
-  { "word": "test10", "def": [] },
-  { "word": "test11", "def": [] },
-  { "word": "test12", "def": [] },
-  { "word": "test13", "def": [] },
-  { "word": "test14", "def": [] },
-  { "word": "test15", "def": [] },
-  { "word": "test16", "def": [] },
-  { "word": "test17", "def": [] },
-  { "word": "test18", "def": [] },
-  { "word": "test19", "def": [] },
-  { "word": "test20", "def": [] },
-  { "word": "test21", "def": [] },
-  { "word": "test22", "def": [] },
-  { "word": "test23", "def": [] },
-  { "word": "test24", "def": [] },
-  { "word": "test25", "def": [] },
-  { "word": "test26", "def": [] },
-  { "word": "test27", "def": [] },
-  { "word": "test28", "def": [] },
-  { "word": "test29", "def": [] },
-  { "word": "test30", "def": [] },
-  { "word": "test31", "def": [] },
-  { "word": "test32", "def": [] },
-  { "word": "test33", "def": [] },
-  { "word": "test34", "def": [] },
-  { "word": "test35", "def": [] },
-  { "word": "test36", "def": [] },
-  { "word": "test37", "def": [] },
-  { "word": "test38", "def": [] },
-  { "word": "test39", "def": [] },
-  { "word": "test40", "def": [] },
-  { "word": "test41", "def": [] },
-  { "word": "test42", "def": [] },
-  { "word": "test43", "def": [] },
-  { "word": "test44", "def": [] },
-  { "word": "test45", "def": [] },
-  { "word": "test46", "def": [] },
-  { "word": "test47", "def": [] },
-  { "word": "test48", "def": [] },
-  { "word": "test49", "def": [] },
-  { "word": "test50", "def": [] },
-  { "word": "test51", "def": [] },
-  { "word": "test52", "def": [] },
-  { "word": "test53", "def": [] },
-  { "word": "test54", "def": [] },
-  { "word": "test55", "def": [] },
-  { "word": "test56", "def": [] },
-  { "word": "test57", "def": [] },
-  { "word": "test58", "def": [] },
-  { "word": "test59", "def": [] },
-  { "word": "test60", "def": [] },
-  { "word": "test61", "def": [] },
-  { "word": "test62", "def": [] },
+  {
+    "word": "Supine adj",
+    "def": [
+      "Lying on its back; reclined.",
+      "(figuratively) Reluctant to take action due to indifference or moral weakness; apathetic or passive towards something; lazy, lethargic, listless.",
+      "(rare, now poetic) Inclining or leaning backward; inclined, sloping."
+    ]
+  },
+  {
+    "word": "Fard v",
+    "def": [
+      "(transitive, archaic) To paint, as the cheeks or face.",
+      "(transitive, archaic) To embellish or gloss over."
+    ]
+  },
+  {
+    "word": "Sowl v",
+    "def": [
+      "(transitive) To pull (especially an animal) by the ears; to drag about."
+    ]
+  },
+  {
+    "word": "Illustrious adj",
+    "def": [
+      "Admired, distinguished, respected, or well-known, especially due to past achievements or noble qualities."
+    ]
+  },
+  {
+    "word": "Chatelaine n",
+    "def": [
+      "(dated) The mistress of a castle or large household.",
+      "(historical) A chain or clasp worn at the waist by women with handkerchief, keys, etc., attached, supposed to resemble the chain of keys once worn by medieval chatelaines."
+    ]
+  },
+  { "word": "Exiguity n", "def": ["The quality of being meagre or scanty."] },
+  { "word": "Ariose adj", "def": ["(music) Melodic and song-like."] },
+  {
+    "word": "Belluine adj",
+    "def": [
+      "(obsolete) Of, characteristic of, or pertaining to beasts; animal, bestial; brutal."
+    ]
+  },
+  {
+    "word": "Seasteading n",
+    "def": [
+      "The creation of permanent dwellings at sea, especially outside the territory claimed by any national government."
+    ]
+  },
+  {
+    "word": "Homily",
+    "def": [
+      "A sermon, especially concerning a practical matter.",
+      "A moralizing lecture.",
+      "A platitude."
+    ]
+  },
+  {
+    "word": "Talaria n",
+    "def": [
+      "(Greek mythology, Roman mythology) The winged sandals worn by certain gods and goddesses, especially the Roman god Mercury (and his Greek counterpart Hermes)."
+    ]
+  },
+  {
+    "word": "Tattle v",
+    "def": [
+      "(intransitive) To chatter; to gossip.",
+      "(intransitive, Canada, US, derogatory) Often said of children: to report incriminating information about another person, or a person's wrongdoing; to tell on somebody.",
+      "(intransitive, obsolete) To speak like a baby or young child; to babble, to prattle; to speak haltingly, to stutter."
+    ]
+  },
+  {
+    "word": "Supernumerary adj",
+    "def": [
+      "Greater in number than.",
+      "Beyond the prescribed or standard amount or number; excess, extra.",
+      "Beyond what is necessary; redundant."
+    ]
+  },
+  {
+    "word": "Abase v",
+    "def": [
+      "(transitive) To lower, as in condition in life, office, rank, etc., so as to cause pain or hurt feelings; to degrade, to depress, to humble, to humiliate.",
+      "(transitive, archaic) To lower physically; to depress; to cast or throw down; to stoop.",
+      "(transitive, obsolete) To lower in value, in particular by altering the content of alloys in coins; to debase."
+    ]
+  },
+  {
+    "word": "Nitty adj",
+    "def": [
+      "Full of nits.",
+      "(chiefly Britain, slang) Foolish, inane.",
+      "(Excessively) detailed, specific; fastidious, fussy, nit-picky.",
+      "(poker slang) Of a poker player: playing in an overly cautious and reactive manner.",
+      "(obsolete, rare) Shining; elegant, spruce."
+    ]
+  },
+  {
+    "word": "Ostrichism n",
+    "def": [
+      "The act of hiding, often unsuccessfully, by ducking one's head out of view.",
+      "(derogatory) A policy of burying one's head in the sand, that is, ignoring the reality of a situation."
+    ]
+  },
+  {
+    "word": "Souped-up adj",
+    "def": [
+      "(horse racing, cant) Of a racehorse: injected with a substance to make it run faster or to change its temperament.",
+      "(road transport, slang) Of an engine, a motor vehicle, etc.: modified for higher performance.",
+      "(United States Navy, slang) Drunk, intoxicated.",
+      "(US (chiefly Connecticut, Massachusetts, and Rhode Island), slang) Excited."
+    ]
+  },
+  {
+    "word": "Insouciant adj",
+    "def": ["Casually unconcerned; carefree, indifferent, nonchalant."]
+  },
+  {
+    "word": "Whip-smart adj",
+    "def": ["(Canada, US, informal) Very intelligent."]
+  },
+  {
+    "word": "August adj",
+    "def": ["Awe-inspiring, majestic, noble, venerable.", "Of noble birth."]
+  },
+  {
+    "word": "Adret n",
+    "def": ["(geography) The sun-facing side of a mountain."]
+  },
+  {
+    "word": "Maverick n",
+    "def": [
+      "An unbranded range animal.",
+      "(by extension) Anything dishonestly obtained.",
+      "(by extension) One who is unconventional or does not abide by rules.",
+      "(by extension) One who creates or uses controversial or unconventional ideas or practices.",
+      "(military) A person in the military who became an officer by going to college while on active duty as an enlisted person.",
+      "(poker slang) A queen and a jack as a starting hand in Texas hold 'em."
+    ]
+  },
+  {
+    "word": "Lucre n",
+    "def": [
+      "Money, riches, or wealth, especially when seen as having a corrupting effect or causing greed, or obtained in an underhanded manner."
+    ]
+  },
+  {
+    "word": "Behove v",
+    "def": [
+      "(transitive, formal) To befit, to suit.",
+      "(transitive, formal) To be necessary for (someone).",
+      "(transitive, formal) To be in the best interest of; to benefit."
+    ]
+  },
+  {
+    "word": "Stonewall v",
+    "def": [
+      "(transitive) To obstruct.",
+      "(intransitive, informal) To refuse to answer or cooperate, especially in supplying information."
+    ]
+  },
+  {
+    "word": "Moiety n",
+    "def": [
+      "A half.",
+      "A share or portion, especially a smaller share.",
+      "(anthropology) Each descent group in a culture which is divided exactly into two descent groups.",
+      "(chemistry) A specific segment of a molecule."
+    ]
+  },
+  {
+    "word": "Melomaniac n",
+    "def": ["One with an abnormal fondness of music; a person who loves music."]
+  },
+  {
+    "word": "Shrithe v",
+    "def": [
+      "(intransitive) To move; to make one's way (toward), to proceed; (specifically) to creep.",
+      "(intransitive) To go about, to roam, to wander."
+    ]
+  },
+  {
+    "word": "Winsome adj",
+    "def": [
+      "Charming, engaging, winning; inspiring approval and trust, especially if in an innocent manner."
+    ]
+  },
+  {
+    "word": "Hobnob v",
+    "def": [
+      "(intransitive, obsolete, rare) To have or have not; to give or take.",
+      "(intransitive, obsolete) To toast one another by touching glasses.",
+      "(intransitive) To drink together.",
+      "(intransitive) To associate with in a friendly manner, often with those of a higher class or status."
+    ]
+  },
+  { "word": "Stalwart", "def": ["Firmly or solidly built.", "Courageous."] },
+  {
+    "word": "Abstemious adj",
+    "def": [
+      "Refraining from freely consuming food or strong drink; sparing in diet; abstinent, temperate.",
+      "Sparing in the indulgence of the appetite or passions.",
+      "Sparingly used; used with temperance or moderation.",
+      "Marked by, or spent in, abstinence.",
+      "Promotive of abstemiousness."
+    ]
+  },
+  {
+    "word": "Wheelhorse n",
+    "def": [
+      "(US, dated) One of a team of horses which is nearest to the wheels of a carriage, as opposed to a leader or forward horse.",
+      "(US, figuratively) A person who labors heavily for a particular cause, without being concerned about recognition.",
+      "(obsolete or historical) A foot-propelled vehicle; a bicycle."
+    ]
+  },
+  {
+    "word": "Repine v",
+    "def": [
+      "(transitive) To fail; to wane.",
+      "(intransitive, now literary) To complain; to regret."
+    ]
+  },
+  {
+    "word": "Faxlore n",
+    "def": [
+      "A kind of folklore comprising humorous material and urban legends that are shared by fax machine."
+    ]
+  },
+  {
+    "word": "Pike n",
+    "def": [
+      "(military, historical) A very long spear used two-handed by infantry soldiers for thrusting (not throwing), both for attacks on enemy foot soldiers and as a countermeasure against cavalry assaults.",
+      "A sharp point, such as that of the weapon.",
+      "A large haycock (“conical stack of hay left in a field to dry before adding to a haystack”).",
+      "Any carnivorous freshwater fish of the genus Esox, especially the northern pike, Esox lucius.",
+      "(diving, gymnastics) A position with the knees straight and a tight bend at the hips with the torso folded over the legs, usually part of a jack-knife.",
+      "(fashion, dated) A pointy extrusion at the toe of a shoe.",
+      "(chiefly Northern England) Especially in place names: a hill or mountain, particularly one with a sharp peak or summit."
+    ]
+  },
+  {
+    "word": "Veisalgia n",
+    "def": [
+      "(medicine) The unpleasant after-effects of the consumption of alcohol; a hangover."
+    ]
+  },
+  {
+    "word": "Vermiculation n",
+    "def": [
+      "(obsolete, rare) The process of being turned into a worm.",
+      "The state of being infested or consumed by worms.",
+      "A pattern of irregular wavy lines resembling worms or their casts or tracks, found on the plumage of birds, used to decorate artworks and buildings, etc.",
+      "(medicine, dated) Peristalsis (“wave-like contraction of the digestive tract, resembling the movement of a worm”)."
+    ]
+  },
+  {
+    "word": "Sultry adj",
+    "def": [
+      "(weather) Hot and humid.",
+      "(weather) Very hot and dry; torrid.",
+      "(figuratively) Sexually enthralling."
+    ]
+  },
+  {
+    "word": "Comminution n",
+    "def": [
+      "(often mining, waste management) The breaking or grinding up of a material to form smaller particles.",
+      "(traumatology) The fracture of a bone site in multiple pieces (technically, at least three); crumbling."
+    ]
+  },
+  {
+    "word": "Acrimonious adj",
+    "def": [
+      "(archaic) Harsh and sharp, or bitter and not to the taste; acrid, pungent.",
+      "(figuratively) Angry, acid, and sharp in delivering argumentative replies: bitter, mean-spirited, sharp in language or tone."
+    ]
+  },
+  {
+    "word": "Ululation n",
+    "def": ["The act of ululating; a long, loud, wavering cry or howl."]
+  },
+  {
+    "word": "Scrofulous adj",
+    "def": [
+      "(pathology, dated) Of, related to, or suffering from scrofula (form of tuberculosis tending to cause enlarged lymph nodes and skin inflammation).",
+      "(figuratively) Having an unkempt, unhealthy appearance.",
+      "(figuratively) Morally degenerate; corrupt."
+    ]
+  },
+  {
+    "word": "Sealocked adj",
+    "def": [
+      "(geography) Of a geographical region: accessible only through a body of seawater, and having no access by land."
+    ]
+  },
+  {
+    "word": "Sudorific adj",
+    "def": [
+      "In a state of perspiration; covered in sweat; sudoriferous, sweaty.",
+      "(chiefly pharmacology) That produces sweating."
+    ]
+  },
+  {
+    "word": "Kenning n",
+    "def": [
+      "(obsolete) Sight, view; specifically a distant view at sea.",
+      "(obsolete) The range or extent of vision, especially at sea; (by extension) a marine measure of approximately twenty miles.",
+      "As little as one can discriminate or recognize; a small portion, a little.",
+      "(zoology, obsolete, rare) A chalaza or tread of an egg (a spiral band attaching the yolk of the egg to the eggshell); a cicatricula.",
+      "(poetry) A metaphorical phrase used in Germanic poetry (especially Old English or Old Norse) whereby a simple thing is described in an allusive way.",
+      "(Northern England) A dry measure equivalent to half a bushel; a container with that capacity."
+    ]
+  },
+  {
+    "word": "Tarn n",
+    "def": [
+      "(Northern England) A small mountain lake, especially in Northern England.",
+      "(US, chiefly Montana) One of many small mountain lakes or ponds."
+    ]
+  },
+  {
+    "word": "Magnality n",
+    "def": ["dated) A great or wonderful thing; a marvel."]
+  },
+  {
+    "word": "Caveat v",
+    "def": [
+      "(transitive, regarded by some as nonstandard) To qualify a statement with a caveat or proviso.",
+      "(transitive, law) To formally object to something.",
+      "(transitive, law, dated) To issue a notice requesting that proceedings be suspended.",
+      "(transitive, obsolete) To warn or caution against some event."
+    ]
+  },
+  {
+    "word": "Sully v",
+    "def": [
+      "(transitive) To soil or stain; to dirty.",
+      "(transitive) To corrupt or damage.",
+      "(intransitive) To become soiled or tarnished."
+    ]
+  },
+  {
+    "word": "Pharmacovigilance n",
+    "def": [
+      "(medicine, pharmacology) The detection, assessment, understanding and prevention of adverse effects of medicines."
+    ]
+  },
+  {
+    "word": "Wrest v",
+    "def": [
+      "(transitive) To pull or twist violently.",
+      "(transitive) To obtain by pulling or violent force.",
+      "(transitive, figuratively) To seize.",
+      "(transitive, figuratively) To distort, to pervert, to twist.",
+      "(transitive, music) To tune with a wrest, or key."
+    ]
+  },
+  { "word": "Braggart n", "def": ["Someone who constantly brags or boasts."] },
+  {
+    "word": "Wan adj",
+    "def": ["Pale, sickly-looking.", "Dim, faint.", "Bland, uninterested."]
+  },
+  {
+    "word": "Homeric adj",
+    "def": [
+      "Resembling or relating to the epic poetry of Homer.",
+      "Of or pertaining to Greece during the Bronze Age, as described in Homer's works.",
+      "Fit to be immortalized in poetry by Homer; epic, heroic."
+    ]
+  },
+  { "word": "Kersey n", "def": ["A type of rough woollen cloth."] },
+  {
+    "word": "Thole v",
+    "def": [
+      "(intransitive, dated) To suffer.",
+      "(transitive, now Northern England, Northern Ireland, Scotland) To endure, to put up with, to tolerate."
+    ]
+  },
+  {
+    "word": "Sylvan adj",
+    "def": [
+      "Pertaining to the forest, or woodlands.",
+      "Residing in a forest or wood",
+      "Wooded, or covered in forest."
+    ]
+  },
+  {
+    "word": "Carious adj",
+    "def": ["Having caries (“bone or tooth decay”); decayed, rotten."]
+  },
+  {
+    "word": "Pingo n",
+    "def": [
+      "(geomorphology) A conical mound of earth with an ice core caused by permafrost uplift, particularly if lasting more than a year.",
+      "(Sri Lanka, dated) A flexible pole supported on one shoulder, with a load suspended from each end; a carrying pole or carrying yoke.",
+      "(Sri Lanka, dated) A weight equivalent to that which can be carried using a pingo."
+    ]
+  },
+  {
+    "word": "Glower v",
+    "def": ["(intransitive) To look or stare with anger."]
+  },
+  {
+    "word": "Trilemma n",
+    "def": [
+      "A circumstance in which a choice must be made between three options that seem equally undesirable or, put another way, in which a choice must be made among three desirable options, only two of which are possible at the same time.",
+      "(logic) An argument containing three alternatives, jointly exhaustive either under any condition(s) or under all condition(s) consistent with the universe of discourse of that argument, that each imply the same conclusion."
+    ]
+  },
   {
     "word": "Hyperthymesia n",
     "def": [
@@ -316,24 +662,122 @@
       "(zoology) Used as the name of various animals with large heads."
     ]
   },
-  { "word": "test101", "def": [] },
-  { "word": "test102", "def": [] },
-  { "word": "test103", "def": [] },
-  { "word": "test104", "def": [] },
-  { "word": "test105", "def": [] },
-  { "word": "test106", "def": [] },
-  { "word": "test107", "def": [] },
-  { "word": "test108", "def": [] },
-  { "word": "test109", "def": [] },
-  { "word": "test110", "def": [] },
-  { "word": "test111", "def": [] },
-  { "word": "test112", "def": [] },
-  { "word": "test113", "def": [] },
-  { "word": "test114", "def": [] },
-  { "word": "test115", "def": [] },
-  { "word": "test116", "def": [] },
-  { "word": "test117", "def": [] },
-  { "word": "test118", "def": [] },
+  {
+    "word": "Petrichor n",
+    "def": [
+      "The distinctive scent which accompanies the first rain after a long, warm, dry spell.",
+      "The yellow organic oil that yields this scent."
+    ]
+  },
+  {
+    "word": "Quacksalver n",
+    "def": [
+      "(archaic) One falsely claiming to possess medical or other skills, especially one who dispenses potions, ointments, etc., supposedly having curative powers; a quack."
+    ]
+  },
+  {
+    "word": "Volition n",
+    "def": [
+      "A conscious choice or decision.",
+      "The mental power or ability of choosing; the will.",
+      "(linguistics) A concept that distinguishes whether or not the subject or agent intended something."
+    ]
+  },
+  {
+    "word": "Mendacity n",
+    "def": [
+      "(uncountable) The fact or condition of being untruthful; dishonesty.",
+      "(countable) A deceit, falsehood, or lie."
+    ]
+  },
+  {
+    "word": "Spendthrift adj",
+    "def": ["Improvident, profligate, or wasteful.", "Extravagant or lavish."]
+  },
+  {
+    "word": "Obtuse adj",
+    "def": [
+      "Intellectually dull or dim-witted.",
+      "Indirect or circuitous.",
+      "Of sound, etc.: deadened, muffled, muted.",
+      "(geometry) Of an angle: greater than 90 degrees but less than 180 degrees.",
+      "(geometry) Of a triangle: having one obtuse angle.",
+      "(now chiefly botany, zoology) Not sharp; blunt."
+    ]
+  },
+  {
+    "word": "Frangible adj",
+    "def": ["Able to be broken; breakable, fragile."]
+  },
+  {
+    "word": "Glossolalia n",
+    "def": [
+      "Speaking a language one does not know, or speaking elaborate but apparently meaningless speech, while in a trance-like state (or, supposedly, under the influence of a deity or spirits); speaking in tongues.",
+      "Xenoglossy (“knowledge of a language one has never learned”)."
+    ]
+  },
+  {
+    "word": "Swarf n",
+    "def": [
+      "(uncountable) The waste chips or shavings from an abrasive activity, such as metalworking, a saw cutting wood, or the use of a grindstone or whetstone.",
+      "(countable) A particular waste chip or shaving."
+    ]
+  },
+  {
+    "word": "Careworn adj",
+    "def": [
+      "Showing the signs of long-term stress; tired and haggard due to prolonged worry."
+    ]
+  },
+  {
+    "word": "Coo v",
+    "def": [
+      "(transitive, intransitive) To make a soft murmuring sound, as a pigeon.",
+      "(intransitive) To speak in an admiring fashion, to be enthusiastic about."
+    ]
+  },
+  {
+    "word": "Haka n",
+    "def": [
+      "A group dance of New Zealand's Maori people featuring rhythmic chanting, vigorous facial and arm movements, and foot stamping. Traditionally a war dance, today it is also performed to welcome guests, as a mark of respect at occasions such as commemorations and funerals, as a challenge to opposing teams at sports events, and for artistic purposes."
+    ]
+  },
+  {
+    "word": "Wordster n",
+    "def": [
+      "One who is skilled at using words; a wordsmith.",
+      "One who studies words.",
+      "(derogatory) One who uses words instead of actions; a hypocrite, a verbalist."
+    ]
+  },
+  {
+    "word": "Sawpit n",
+    "def": [
+      "A pit over which lumber is positioned to be sawn with a long two-handled saw (a pitsaw) by two people, one standing above the timber and the other in the pit below."
+    ]
+  },
+  {
+    "word": "Echelon n",
+    "def": [
+      "A level or rank in an organization, profession, or society.",
+      "(cycling) A line of riders seeking maximum drafting in a crosswind, resulting in a diagonal line across the road.",
+      "(military) A formation of troops, ships, etc., in diagonal parallel rows."
+    ]
+  },
+  { "word": "Philematology n", "def": ["The scientific study of kissing."] },
+  {
+    "word": "Gunzel n",
+    "def": [
+      "(Australia) A railway or tram enthusiast; particularly (formerly derogatory) one who is overly enthusiastic or foolish.",
+      "(Australia, by extension) An enthusiast or geek with a specific interest."
+    ]
+  },
+  {
+    "word": "Stochastically adv",
+    "def": [
+      "In a stochastic manner; by means of a process involving a randomly determined sequence of events."
+    ]
+  },
   { "word": "test119", "def": [] },
   { "word": "test120", "def": [] },
   { "word": "test121", "def": [] },

@@ -49,3 +49,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+button {
+  padding: 10px;
+  background: white;
+  border: 2px solid black;
+  font-size: 1.4rem;
+  box-shadow: 2px 2px 2px grey;
+}
+.prevDay {
+  float: left;
+}
+.nextDay {
+  float: right;
+}
+.clearFloat {
+  clear: both;
+}
+.defs-transition-enter {
+  transition: all 5s;
+  background: tomato;
+  transform: translateY(-45px);
+}
+.defs-transition-enter-active {
+  transition: all 5s;
+  background: blue;
+  transform: translateY(-35px);
+}
+.defs-transition-enter-done {
+  transition: all 5s;
+  background: palegoldenrod;
+  transform: translateY(-25px);
+}
+.defs-transition-exit {
+  transition: all 5s;
+  background: teal;
+}

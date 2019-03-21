@@ -22,7 +22,6 @@ class App extends Component {
   };
 
   changeDay = nextOrPrev => {
-    console.log('changing the day'+nextOrPrev);
     //update state here
     let day = this.state.day;
     day = day + nextOrPrev;
@@ -36,7 +35,7 @@ class App extends Component {
     return (
       <div className="main">
       <Header></Header>
-      <h3>{moment().format("MMMM Do, YYYY")}</h3>
+      {/* <h3>{moment().format("MMMM Do, YYYY")}</h3> */}
       {/* { <pre>{formatObject()}</pre> } */}
       <TodaysWord day={this.state.day}></TodaysWord>
       <TodaysDefinition day={this.state.day}></TodaysDefinition>
