@@ -5,7 +5,7 @@ import moment from "moment";
 
 const TodaysWord = (props) => {
     let day = props.day;
-    let {word}=words[day];
+    let {word} = words[day - 1];
     word = word.split(' ');
     return (
     <>
