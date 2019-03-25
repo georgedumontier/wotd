@@ -31,12 +31,7 @@ h3 {
   margin-bottom: 10px;
   margin-top: 5px;
 }
-.defs {
-  font-size: 2rem;
-}
-.defs li {
-  margin-bottom: 15px;
-}
+
 footer {
   text-align: center;
   color: rgb(173, 173, 173);
@@ -66,22 +61,56 @@ button {
 .clearFloat {
   clear: both;
 }
-.defs-transition-enter {
-  transition: all 5s;
-  background: tomato;
-  transform: translateY(-45px);
+.def-container {
+  position: relative;
 }
-.defs-transition-enter-active {
-  transition: all 5s;
-  background: blue;
-  transform: translateY(-35px);
+.defs {
+  font-size: 2rem;
+  position: relative;
+  margin-top: 0;
+  width: 100%;
 }
-.defs-transition-enter-done {
-  transition: all 5s;
-  background: palegoldenrod;
-  transform: translateY(-25px);
+.defs li {
+  margin-bottom: 15px;
 }
-.defs-transition-exit {
-  transition: all 5s;
-  background: teal;
+.prev-defs-transition-enter {
+  transition: all 0.3s;
+  left: -200%;
+}
+.prev-defs-transition-enter-active {
+  transition: all 0.3s;
+  left: 0;
+}
+.prev-defs-transition-exit {
+  transition: all 0.3s;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.prev-defs-transition-exit-active {
+  transition: all 0.3s;
+  left: 200%;
+  position: absolute;
+  top: 0;
+}
+
+.next-defs-transition-enter {
+  transition: all 0.3s;
+  left: 200%;
+}
+.next-defs-transition-enter-active {
+  transition: all 0.3s;
+  left: 0;
+}
+.next-defs-transition-exit {
+  transition: all 0.3s;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.next-defs-transition-exit-active {
+  transition: all 0.3s;
+  left: -200%;
+  position: absolute;
+  top: 0;
 }

@@ -8,6 +8,7 @@ import Buttons from './components/Buttons';
 
 
 
+
 // let formatObject = function(){
 //   let schema = [];
 //   for (let i=1; i<367; i++){
@@ -21,23 +22,24 @@ class App extends Component {
   state = {
     actualDay: todaysDay,
     day: todaysDay,
+    nextOrPrev: null
   };
 
   changeDay = nextOrPrev => {
     //update state here
     let day = this.state.day;
-      console.log(day);
+      console.log(nextOrPrev);
       if(day >= 1){
         day = day + nextOrPrev;
         if(day===0){day = 1;}
         this.setState({
-          day
+          day,
+          nextOrPrev
         });
       }
     }
 
     componentDidMount = () => {
-      console.log('just once?');
       this.arrowKeys();
     }
 
@@ -62,8 +64,8 @@ class App extends Component {
       {/* <h3>{moment().format("MMMM Do, YYYY")}</h3> */}
       {/* { <pre>{formatObject()}</pre> } */}
       <TodaysWord day={this.state.day}></TodaysWord>
-      <TodaysDefinition day={this.state.day}></TodaysDefinition>
-      <Buttons changeDay={this.changeDay} day={this.state.day} actualDay={this.state.actualDay}></Buttons>
+      <TodaysDefinition day={this.state.day} nextOrPrev={this.state.nextOrPrev}></TodaysDefinition>
+      <Buttons changeDay={this.changeDay} day={this.state.day} actualDay={this.state.actualDay} ></Buttons>
       <Footer></Footer>
       </div>
     );
