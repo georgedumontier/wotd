@@ -28,7 +28,6 @@ class App extends Component {
   changeDay = nextOrPrev => {
     //update state here
     let day = this.state.day;
-      console.log(nextOrPrev);
       if(day >= 1){
         day = day + nextOrPrev;
         if(day===0){day = 1;}
