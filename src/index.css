@@ -73,42 +73,42 @@ button {
 .defs li {
   margin-bottom: 15px;
 }
-.prev-defs-transition-enter {
+.prev-defs-enter {
   transition: all 0.3s;
   left: -200%;
 }
-.prev-defs-transition-enter-active {
+.prev-defs-enter-active {
   transition: all 0.3s;
   left: 0;
 }
-.prev-defs-transition-exit {
+.prev-defs-exit {
   transition: all 0.3s;
   position: absolute;
   left: 0;
   top: 0;
 }
-.prev-defs-transition-exit-active {
+.prev-defs-exit-active {
   transition: all 0.3s;
   left: 200%;
   position: absolute;
   top: 0;
 }
 
-.next-defs-transition-enter {
+.next-defs-enter {
   transition: all 0.3s;
   left: 200%;
 }
-.next-defs-transition-enter-active {
+.next-defs-enter-active {
   transition: all 0.3s;
   left: 0;
 }
-.next-defs-transition-exit {
+.next-defs-exit {
   transition: all 0.3s;
   position: absolute;
   left: 0;
   top: 0;
 }
-.next-defs-transition-exit-active {
+.next-defs-exit-active {
   transition: all 0.3s;
   left: -200%;
   position: absolute;
