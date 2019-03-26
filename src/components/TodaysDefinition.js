@@ -3,16 +3,16 @@ import words from  '../words.json';
 import { TransitionGroup, CSSTransition } from 'react-transition-group';
 
 class TodaysDefinition extends React.Component{
-    // exitRight = function(node){
-    //     node.classList.remove("prev-defs-transition-exit","prev-defs-transition-exit-active");
-    //     node.classList.add("next-defs-transition-exit","next-defs-transition-exit-active");
-    //     console.log(node.classList);
-    // }
+    exitRight = function(node){
+        node.classList.remove("prev-defs-transition-exit","prev-defs-transition-exit-active");
+        node.classList.add("next-defs-transition-exit","next-defs-transition-exit-active");
+        console.log(node.classList);
+    }
 
     render(){
         let {day,nextOrPrev} = this.props;
         let {def} = words[day - 1 ];
-        let transitionClass = "defs";
+        let transitionClass = "pi";
         if(nextOrPrev === -1){
             transitionClass = "prev-defs";
         }
@@ -21,9 +21,10 @@ class TodaysDefinition extends React.Component{
             <div className="def-container">
                 <TransitionGroup component={null}>
                     <CSSTransition
-                    classNames={transitionClass}
+                    classNames="prev-defs"
                     key={this.props.day}
-                    timeout={{enter:300, exit:300}} >
+                    timeout={{enter:300, exit:300}}
+                    onExit={() => this.exitRight()} >
                         <ol className="defs">
                             {def.map((def,idx) => (<li key={idx} >{def}</li>))}
                         </ol>
