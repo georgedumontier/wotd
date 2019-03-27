@@ -6,7 +6,9 @@ const Buttons = (props) => {
        return(
            <div className="button-container">
             <button className="prevDay" onClick={() => props.changeDay(-1)}>&#8592; Previous word</button>
-            <div className="clearFloat"></div></div>
+            <div className="clearFloat"></div>
+            </div>
+            
        )
     } else if (props.day < props.actualDay && props.day > 1){
         return(

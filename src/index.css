@@ -6,11 +6,18 @@
 body {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
+  box-sizing: border-box;
 }
 .main {
   max-width: 640px;
   margin: 0 auto;
+  height: 100%;
   padding: 10px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  min-height: 100vh;
+  position: relative;
 }
 h1 {
   font-size: 6rem;
@@ -19,7 +26,6 @@ h1 {
   padding: 10px;
 }
 .ofthe {
-  /* display: block; */
   font-size: 4rem;
 }
 h3 {
@@ -30,6 +36,19 @@ h3 {
   font-size: 4rem;
   margin-bottom: 10px;
   margin-top: 5px;
+}
+.word-container {
+  position: relative;
+  width: 100%;
+}
+.todays-word {
+  width: 100%;
+  position: relative;
+  transition: 0.3s all;
+}
+.todays-word h2,
+.todays-word h3 {
+  width: 100%;
 }
 
 footer {
@@ -44,7 +63,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-
+.button-container {
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+}
 button {
   padding: 10px;
   background: white;
@@ -66,51 +90,46 @@ button {
 }
 .defs {
   font-size: 2rem;
-  position: relative;
   margin-top: 0;
-  width: 100%;
+  transition: all 0.3s;
 }
 .defs li {
   margin-bottom: 15px;
 }
 .prev-defs-enter {
-  transition: all 0.3s;
-  left: -200%;
+  transform: translateX(-200%);
 }
 .prev-defs-enter-active {
-  transition: all 0.3s;
-  left: 0;
+  transform: translateX(0);
 }
 .prev-defs-exit {
-  transition: all 0.3s;
   position: absolute;
-  left: 0;
+  width: 100%;
+  transform: translateX(0);
   top: 0;
+  overflow: hidden;
 }
 .prev-defs-exit-active {
-  transition: all 0.3s;
-  left: 200%;
+  transform: translateX(200%);
   position: absolute;
+  width: 100%;
   top: 0;
 }
 
 .next-defs-enter {
-  transition: all 0.3s;
-  left: 200%;
+  transform: translateX(200%);
 }
 .next-defs-enter-active {
-  transition: all 0.3s;
-  left: 0;
+  transform: translateX(0);
 }
 .next-defs-exit {
-  transition: all 0.3s;
   position: absolute;
-  left: 0;
+  transform: translateX(0);
   top: 0;
+  overflow: hidden;
 }
 .next-defs-exit-active {
-  transition: all 0.3s;
-  left: -200%;
+  transform: translateX(-200%);
   position: absolute;
   top: 0;
 }
