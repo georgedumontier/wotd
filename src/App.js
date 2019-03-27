@@ -6,7 +6,7 @@ import Footer from './components/Footer';
 import Header from './components/Header';
 import Buttons from './components/Buttons';
 import { CSSTransition, TransitionGroup} from 'react-transition-group';
-import {exit, exiting, enter, entering} from './transitions.js';
+import {exit, exiting} from './transitions.js';
 
 let todaysDay = parseFloat(moment().format("DDD"));
 
@@ -15,20 +15,25 @@ class App extends Component {
     actualDay: todaysDay,
     day: todaysDay,
     nextOrPrev: null,
-    appearHome: true
+    appearHome: true,
+    leftRight: "prev",
   };
 
   changeDay = nextOrPrev => {
     //update state here
     let day = this.state.day;
+    let leftRight = this.state.leftRight;
       if(day >= 1){
         day = day + nextOrPrev;
         if(day===0){day = 1;}
+        if(nextOrPrev > 0){leftRight = "next";}else{leftRight = "prev"}
         this.setState({
           day,
-          nextOrPrev
+          nextOrPrev,
+          leftRight
         });
       }
+      // console.log(this.state.leftRight);
     }
 
     componentDidMount = () => {
@@ -47,6 +52,7 @@ class App extends Component {
 
 
   render() {
+    console.log(this.state.leftRight);
     // let nextOrPrev = this.state.nextOrPrev;
     return (
       <div className="main">
@@ -56,18 +62,18 @@ class App extends Component {
         <CSSTransition 
           key={this.state.day}
           timeout={{enter:300,exit:300}}
-          classNames="next-defs"
+          classNames={this.state.leftRight+"-defs"}
           onExit={(node)=>exit(node,this.state.nextOrPrev)}
           onExiting={(node)=>exiting(node,this.state.nextOrPrev)}
-          onEnter={(node)=>enter(node,this.state.nextOrPrev)}
-          onEntering={(node)=>entering(node,this.state.nextOrPrev)}
+          // onEnter={(node)=>enter(node,this.state.nextOrPrev)}
+          // onEntering={(node)=>entering(node,this.state.nextOrPrev)}
 
         >
           <TodaysWord day={this.state.day}></TodaysWord>
         </CSSTransition>
       </TransitionGroup>
       </div>
-      <TodaysDefinition day={this.state.day} nextOrPrev={this.state.nextOrPrev}></TodaysDefinition>
+      <TodaysDefinition day={this.state.day} nextOrPrev={this.state.nextOrPrev} leftRight={this.state.leftRight}></TodaysDefinition>
       <Buttons changeDay={this.changeDay} day={this.state.day} actualDay={this.state.actualDay} ></Buttons>
       <Footer></Footer>
       {/* <div className="footer">stuff</div> */}
