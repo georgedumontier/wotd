@@ -70,6 +70,7 @@ class App extends Component {
       <TodaysDefinition day={this.state.day} nextOrPrev={this.state.nextOrPrev}></TodaysDefinition>
       <Buttons changeDay={this.changeDay} day={this.state.day} actualDay={this.state.actualDay} ></Buttons>
       <Footer></Footer>
+      {/* <div className="footer">stuff</div> */}
       </div>
     );
   }
