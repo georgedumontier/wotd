@@ -71,10 +71,11 @@ code {
 }
 button {
   padding: 10px;
-  background: white;
-  border: 2px solid black;
+  background: rgb(255, 255, 255);
+  /* border: 2px solid black; */
+  border: none;
   font-size: 1.4rem;
-  box-shadow: 2px 2px 2px grey;
+  box-shadow: 0 0 2px 1px rgb(220, 220, 220);
 }
 .prevDay {
   float: left;
@@ -84,6 +85,9 @@ button {
 }
 .clearFloat {
   clear: both;
+}
+.word-container div {
+  transition: 0.3s all;
 }
 .def-container {
   position: relative;

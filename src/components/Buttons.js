@@ -1,6 +1,8 @@
 import React from 'react';
 
 const Buttons = (props) => {
+
+    
     // if( this.props.state.day === null ){
     if(props.day === props.actualDay){
        return(
